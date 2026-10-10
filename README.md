@@ -33,3 +33,6 @@ resources 另列的圖片、文本與字幕供查看參考，不需玩家手動�
 
 ## License
 CC BY-NC-SA 4.0
+• BY (Attribution / 姓名標示)：須保留原作者姓名。
+• NC (NonCommercial / 非商業性)：不得將作品用於商業目的。
+• SA (ShareAlike / 相同方式分享)：若修改或改作作品，新作品必須採用與本授權相同的條款來釋出。
