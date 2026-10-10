@@ -1,5 +1,7 @@
-# 《マーダーミステリーパラドクスこのひと夏の十五年》漢化模組
-### 《謀殺推理悖論：這一個夏天十五年的回憶》（マーダーミステリーパラドクスこのひと夏の十五年）非官方繁體中文模組
+# 《マーダーミステリーパラドクスこのひと夏の十五年》非官方中文化
+## 《謀殺推理悖論：這一個夏天十五年的回憶》
+![screenshot](https://github.com/kiryu3030/MurderMysteryParadox-zhTW/blob/main/GamePreview.png)
+### 《マーダーミステリーパラドクスこのひと夏の十五年》的非官方繁體中文模組
 
 主要使用GPT6.1翻譯協作、圖片文字整理、程式修正及安裝工具
 包含臺灣用語校訂、遊戲演出／地圖／線索圖片中文字、補充字幕、氣泡及名稱顯示修正、全螢幕處理與可備份還原的安裝工具。
@@ -12,7 +14,7 @@ Steam 遊戲本體：https://store.steampowered.com/app/2203040/
 
 ## 安裝方式
 1. 在 [Steam](https://store.steampowered.com/app/2203040/) 購買並安裝原遊戲，先儲存遊戲並正常退出。
-2. 將本 ZIP 完整解壓縮，再執行 MurderMysteryParadox-zhTW-Installer.exe。
+2. 下載[中文化模組](https://github.com/kiryu3030/MurderMysteryParadox-zhTW/releases/tag/1.0.0)將 ZIP 完整解壓縮，再執行 MurderMysteryParadox-zhTW-Installer.exe。
 3. 選取含 MurderMysteryParadox.exe 的遊戲資料夾，保留「使用內附模組」的選項。
 4. 按檢查／安裝，完成後由 Steam 啟動遊戲。
 本公開 ZIP 不需要放進「自選 ZIP」欄位；EXE 已內附正式版修改檔。
